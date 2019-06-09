@@ -1,7 +1,7 @@
 # Личный проект «Кексобукинг» [![Build status][travis-image]][travis-url]
 
 * Студент: [Anzhelika Cheipesh](https://up.htmlacademy.ru/javascript/17/user/1022505).
-* Наставник: `Неизвестно`.
+* Наставник: `Птетька Волобуев`(https://htmlacademy.ru/profile/id635515).
 
 ---
 
